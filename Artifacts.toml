@@ -1,288 +1,288 @@
 [[GraphicsMagick]]
 arch = "aarch64"
-git-tree-sha1 = "bba12c6918a53beba1a042297ad52f7caf31cd44"
+git-tree-sha1 = "34d2498b452bf0dfa6868a5c1f73e0aca2f2a00b"
 os = "macos"
 
     [[GraphicsMagick.download]]
-    sha256 = "28e774f9849bdec03437fdd4f31349b9046c2beb1c577c7c6d7655ef9908c288"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.aarch64-apple-darwin.tar.gz"
+    sha256 = "bbac9048115b4d76d5891ec6fbcfb0ddb0218f5002d0b689b2efe1e4afc1e714"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.aarch64-apple-darwin.tar.gz"
 [[GraphicsMagick]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f12139a31ca0241f2699c66308e0cb26d4882d57"
+git-tree-sha1 = "d588135a641aa7b51f4f4f8896a51e195c12338e"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "97e6f706f8f276a4f7747505f9c9f6f689d1a62b44e8218551d017f911cbccc2"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "40c8b8e7e392bcce8828188de12f00ebbb9725f17dc3737cd3dd4f30b57c0baf"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.aarch64-linux-gnu-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "88bc1d4af779ed50baa381bd8047b861aba4e578"
+git-tree-sha1 = "656293c24e71434e3cb7099fc36826f248814733"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "c9f95bfe791479149e6d1ada2201f37853252f7ee98e3d5e88d0fa43e7b79228"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6bc5241d836f4af70e8e6cf0e6327a7d9a83e84aa0899c1f4553dbfb4309ebe2"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.aarch64-linux-gnu-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dce93872ff387c4ca8a3c965a4f9059ea443973e"
+git-tree-sha1 = "198eef1c7b9864e0d29437077a24521799c6d638"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "a7e323dc886f9a81d35e13a66e84d256209f9ee3199bfb27f40bba8bb7d86b5d"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "8c82babed88ccb46a5814a28f5fc044f0efba3e52b0e9a008a9fddf541eaad5b"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.aarch64-linux-musl-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c14ecfc6cfc446709a52984c9808fe66a82f453c"
+git-tree-sha1 = "e1063cc4068571ef5b3c8f9d60f4c03c4482ae9c"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "fbfd94e2512a285c26c450fe5f18caca18e6cc79abf777c0c1889a645c352cd4"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "e4fe6199d806da5fceb5ee7845ea6e95340e40f103128f4f85b7e185cdc0a04a"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.aarch64-linux-musl-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "13db633bf2ae982d247b1562de58d47c502e961f"
+git-tree-sha1 = "52184ff71fdfda06183a2d9b4698277f1260048d"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "ef2ddd1853655ee8f0d1f0670a620692c1dad8c129dcb181d7be19f974c5abff"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "f6f45ad7a680af0ab3f417d0f03eda4a9cb88835003cb66ae1afc1d48833829d"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d05c0acea1348fb5b86f076c4fa13e281e297c1e"
+git-tree-sha1 = "cf2a0029b229f8a84662fca21adfeead68cd55e8"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "8d2032fa7e56e98fe3f077a1cd12e6992396e351347b8e76ccb065e539983695"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "fa7e01c05f8af1d04f9fa3668b18a7882522935dd056d8f9d03e8fd1ed551beb"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e4aed6ec4ba672c1c89bdbe093e0c37c237693af"
+git-tree-sha1 = "dc2422997e76f2f63a6614288dbe9f9d5264e7c1"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "e5289ae0ecfe6d71c4ba65259027e0ecc29ba2e5523bfe43762a7e1132f9e79a"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "0d77ea4c8b53b4436399ace305f88b6f301b8920616330d97622cec78184e333"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1306afa1fc7680be8e82a416a2f6ccd20bce16c8"
+git-tree-sha1 = "4264fba25c954b882f04f07352056e6966584900"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "f8627bb32a2815d03c965f508ce74203d77afed160df98bb5621380fd35dc7ba"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e168df959d5060b89123303e01ee9b61a44473b8267f28e360a2af2b1a20e969"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ce628163b87b9a82d3a317d408479f31c90ba714"
+git-tree-sha1 = "10b3c40e75ba0622c3c3287e562568a660b5eff8"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "ae77fdbafda41bc2770f3486100c6377f5a9304840bc4a9aaffcff4489a77018"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "9337aba9e6bde978fe666f025facbe58e95c636be3872044c09c80a9be267213"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3540c89be8e98a7383ebbf2aba8a0371d417d39"
+git-tree-sha1 = "7022208868e68ba886d2760ebea7948490d804fa"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "07a66e2102e65276d1bf3899842c59756de3ed427c54916ef847c95c61029cf7"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "290b20f72ee224fcd1e362ddbfba36b0ae52c9f35b248166c1a356490e0d2fb1"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "290e266bd0b3dc83dfa4d03448d9d3dd6f1b6cfd"
+git-tree-sha1 = "c03317426739da83eae20d62b470c4dacbc02e69"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "5b2077b1e252570a54ba374a80885bb76c04e2fd01b4890a9d1b91fda3c9707d"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "c541157fdb7106531a594ae5f1e54e6ace802f505ac7b0d39335d3d08dc1accc"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc788b3adcb4dc48256ba2a84b21f3ed88618218"
+git-tree-sha1 = "650e2f86388ed42f5f2928ac7616b9e951511207"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "a13a7b4e5a9509a5d3062552ea8b15c0ce535c10736f14017754c4acedbf54c0"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "976129cbd7efe2b4012c0c07e8c401fe51077998bac3eda31085f39c93bd3b3d"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "aaed48039d75f12615cfa2a9b9885335ce2b1266"
+git-tree-sha1 = "1a6ee05ec78597b51b0c59d16922996d319d430c"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "ed762997d6cb9dd6ae690fc543b68fa45b8e0ea2723d769a529d5115abb8e83c"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "392726f579bc68dbad1ead701ac27990130b5ab61e2f59d9f261030f6a85184c"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.i686-linux-gnu-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e32c74762eac6d8051ccfc64ec688fd6040877a7"
+git-tree-sha1 = "1f4867f91535035198e5b3e2979fa2d3c60fad42"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "72d3afbbc7a5580a15b6e76bf5cfcdcfb80cd8c5c8b9d0bf3a9a8937e92605f8"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "84e942b3653f8c2098f018528c459193d79b6ebe4333d4d54ba4fef2b9fb9e02"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.i686-linux-gnu-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "db9a961a3266fcfeeffad77608478e2710a5ee79"
+git-tree-sha1 = "5b498db8a1f1b23b9ff4eddbab9cc4608be68181"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "96516a1c65e57626a7029920ab16260ca102505a0a0c9728f175fd879446c992"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "052455649d507b13a7b131763c548926aea8efc5039df1daa5031e2d2eae9b3a"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.i686-linux-musl-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b1669daea781050a45e6cf584ea981064c86c0e0"
+git-tree-sha1 = "afd0322f6ed9357b524cbb92180a2466463e6fcd"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "93fa78a3b97adfbec29fb803ff0afeb3618e35f67799cd26cc159d9705e5ea8b"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "4967592f6ef74afb380f3957d0b97beb3ef9db39c4ac53830c80e0f749d830f6"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.i686-linux-musl-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7b8af68f0b95036df9b6d9a6650c416a52f91cc4"
+git-tree-sha1 = "7d48091d72104055162a14d957a0b88e1cfc6bcb"
 os = "windows"
 
     [[GraphicsMagick.download]]
-    sha256 = "c56922cbcd53b78a46374ce1fa74029244fb78caa99da6b64f6f82f57e1be46b"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b116dac3a4a186c8a12af839cd5e8e7ffa42e116c37f7e46e67f0dc894a1c758"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.i686-w64-mingw32-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d14a8dca0b01d0616162006fdeb6643835d5c8db"
+git-tree-sha1 = "78fad3d297ebe0eb92e5a7e62ee3e559bb82610f"
 os = "windows"
 
     [[GraphicsMagick.download]]
-    sha256 = "d447e6610251b8d2d41bd9223d4d168f7c06ea10fdbc3530f248af364f5323a3"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "5ba710322eaa330013555641a123e624a5974636c65e7e4a5b4fb7cfe86114a1"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.i686-w64-mingw32-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e4d6f88f2f9bfa6120b857a692c410f3b83873e7"
+git-tree-sha1 = "4863f36f3cd66f97c211391336c433b7f74e908c"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "c6685c6307a1eec10084b67bdf22350baae8d4cab4e4ddfb914efe73077614b0"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "9d665401619c42e14b2427709fdab6229a42c67122a890cb1c7bd144b907db80"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec7dbd0d05403afdc6b09fcb8e5f11ed8bb958e4"
+git-tree-sha1 = "b4fc0492e2a1d59d8a09cadb5d1c4de35a3300a9"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "7b8ec8c3321ed78bb135b068d2550913657a2d0e2a0de88c89260da25df16583"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "ad2f11b4f74e8ccdd007d47514b26ed69c7df69719cc7170b0cc86e51a89c6c9"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "x86_64"
-git-tree-sha1 = "8ab7040848bc13485109c163a75cdf123b62677e"
+git-tree-sha1 = "ef0e6fb6e6899f51d2edfbf21dfecbabb496d5fc"
 os = "macos"
 
     [[GraphicsMagick.download]]
-    sha256 = "9275cd720613c264341df3a8c376d5f00d54ccd0ab16ddba67424618667413df"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.x86_64-apple-darwin.tar.gz"
+    sha256 = "af911cf150ef4ca3472345583054e18688c7e7df3aa941851e695747d50eb564"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.x86_64-apple-darwin.tar.gz"
 [[GraphicsMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "57c2973dcee4ce9f57d5d6952eec1cef075db7bc"
+git-tree-sha1 = "345004c8be442d6821e17f5e545f9fe12eb84dd8"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "863bba4aa66e51f001de4c2763f646a4e616fa7a3f5585cf7793fe72c64aa275"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "bbedf460297ff8049af2d33e423a8d25da19620a7564aa3218455e2f17464d0d"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.x86_64-linux-gnu-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "efa5edb54580171c55e1f57b22b5bfe0acb3985e"
+git-tree-sha1 = "57c29eb20c4adf76b8a57f28da3e8f0768fedc2b"
 libc = "glibc"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "564caca16f83797691418f101e24831115bd4fe75af535f2453678438c5941ab"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fc42df15e216d821c292842f4ab38e9d48f3852e924b8b81580b6f9363cb5373"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.x86_64-linux-gnu-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f0e10031181ca3884338f1b7ed44f4cacd9f0045"
+git-tree-sha1 = "a8a9fb37475e83e6b4f8f6db5ea25e7a5f6b9fc7"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "1a3c7c88f6d5773fa9344d29ba5a723279159a4edb7c7f988441af47590fe0d9"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "da96902d0b962b1a37e8b517dc00a69c5f1521c8bf0fecbd6adaab3db30f47fd"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.x86_64-linux-musl-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7511eded3ae6dac66ba346f73332e1cb6681d804"
+git-tree-sha1 = "9e04b74b5b1836ed05ef8c39cbffe6ea860b3b83"
 libc = "musl"
 os = "linux"
 
     [[GraphicsMagick.download]]
-    sha256 = "613d762041a7f0737efa446e9dd93ac554bba387d1dc030f34d22ff214553675"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "99fbe2293309a71dccca83eeeeec01fd86babc1635a01be18c4f458c9b445e3c"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.x86_64-linux-musl-cxx11.tar.gz"
 [[GraphicsMagick]]
 arch = "x86_64"
-git-tree-sha1 = "3cd4dfc8c90d2d1210486a84cc7c4ea39d65a7f2"
+git-tree-sha1 = "fc1150ca6a3ca51b1d045d8d628f4c75078dcdce"
 os = "freebsd"
 
     [[GraphicsMagick.download]]
-    sha256 = "a4906df9f91d7542c0989d05727c6434863d26a2523b9c014ba0530ee9b03333"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "dec3249139e6d0747ac5185ce425a6af228ef28202cb3e1dec0e2c59281f411f"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.x86_64-unknown-freebsd.tar.gz"
 [[GraphicsMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cee48de67eda6f558f85bed3a9c0de1c24e34a5a"
+git-tree-sha1 = "966d96714d7d6617b37c5b42347f2b2c1ff0e2a7"
 os = "windows"
 
     [[GraphicsMagick.download]]
-    sha256 = "b8d55f35d783a40814bebc50858020c599d71ca25cab4b989798ca44ed51595a"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "78b8f340bece71bfab6c13a449ac14a5ab6cda1cb55cf612a58ee25e9bb6af38"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.x86_64-w64-mingw32-cxx03.tar.gz"
 [[GraphicsMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d48bdecb5f48d74490fd68cff5e00f3271c2765a"
+git-tree-sha1 = "ecb09f96e6cfc169304fb394e6fd0b8222451847"
 os = "windows"
 
     [[GraphicsMagick.download]]
-    sha256 = "c60048793d20015ab6483405b128a47d992870472db0be2b07d8d11e2297abba"
-    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+0/GraphicsMagick.v1.3.42.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "2fb71c0df97853ac648d1098b669dec19d8fd183d2a8046a526fb5ee94f417d1"
+    url = "https://github.com/JuliaBinaryWrappers/GraphicsMagick_jll.jl/releases/download/GraphicsMagick-v1.3.42+1/GraphicsMagick.v1.3.42.x86_64-w64-mingw32-cxx11.tar.gz"
