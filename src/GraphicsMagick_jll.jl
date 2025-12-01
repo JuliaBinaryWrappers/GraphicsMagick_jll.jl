@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("GraphicsMagick")
-JLLWrappers.@generate_main_file("GraphicsMagick", UUID("aa65733b-c888-5e24-8545-c87abc10c960"))
+JLLWrappers.@generate_main_file("GraphicsMagick", Base.UUID("aa65733b-c888-5e24-8545-c87abc10c960"))
 end  # module GraphicsMagick_jll
